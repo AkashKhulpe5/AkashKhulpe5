@@ -14,7 +14,9 @@ Generative AI Engineer Intern at **IntelliBI Innovations**, Pune. B.Tech in Elec
 
 I build LLM applications end to end: RAG pipelines, multi-agent workflows with LangGraph, and the FastAPI backends that serve them, packaged with Docker.
 
-<!-- Add one line about your internship work, e.g. "At IntelliBI I build ___ using ___." -->
+💼 **At IntelliBI Innovations** I build RAG and multi-agent systems with LangGraph and FastAPI.
+
+<!-- Sharpen this: "At IntelliBI I build X using Y, which does Z" + a real number if you have one -->
 
 ---
 
