@@ -3,7 +3,7 @@
 **Generative AI Engineer** building RAG systems, multi-agent workflows and production-ready AI backends.
 B.Tech in Electronics & Telecommunication (PCCOE, Pune) · GenAI Intern @ IntelliBI Innovations
 
-📍 Pune, India · 📫 [your-email@example.com] · [LinkedIn](https://www.linkedin.com/in/akash-khulpe-59ab83241/)
+📍 Pune, India · 📫 akashkhulpe.tech@gmail.com · [LinkedIn](https://www.linkedin.com/in/akash-khulpe-59ab83241/)
 
 🟢 **Open to full-time roles:** Generative AI Engineer · AI/ML Engineer
 
