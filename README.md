@@ -3,9 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/akash-khulpe-59ab83241/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <!-- Add your email badge here:
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  -->
+  <a href="mailto:akashkhulpe.tech@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
@@ -89,6 +87,14 @@ Evaluation pipeline: a generator LLM answers a golden question set, a judge LLM 
 
 ---
 
+## 🔭 Currently Exploring
+
+- Advanced agentic AI systems and multi-agent workflows
+- Production-grade RAG architectures
+- LLM evaluation and optimization
+
+---
+
 ## 🎯 Open to Full-Time Roles
 
 AI Engineer · Generative AI Engineer · Agentic AI Engineer · Python Backend Developer · Applied AI / ML Engineer
@@ -99,4 +105,4 @@ AI Engineer · Generative AI Engineer · Agentic AI Engineer · Python Backend D
 
 ## 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/akash-khulpe-59ab83241/)
+📧 [akashkhulpe.tech@gmail.com](mailto:akashkhulpe.tech@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/akash-khulpe-59ab83241/)
