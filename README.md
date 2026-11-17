@@ -1,97 +1,34 @@
-# Hi there 👋 I'm Akash Khulpe
+# Hi, I'm Akash Khulpe 👋
 
-🎓 B.Tech Graduate (Electronics & Telecommunication Engineering)  
-📍 Pimpri Chinchwad College of Engineering (PCCOE), Pune
+**Generative AI Engineer** building RAG systems, multi-agent workflows and production-ready AI backends.
+B.Tech in Electronics & Telecommunication (PCCOE, Pune) · GenAI Intern @ IntelliBI Innovations
 
-💼 Generative AI Intern @ IntelliBI Innovations
+📍 Pune, India · 📫 [your-email@example.com] · [LinkedIn](https://www.linkedin.com/in/akash-khulpe-59ab83241/)
 
-🚀 Passionate about building AI-powered applications using Large Language Models (LLMs), Agentic AI, Retrieval-Augmented Generation (RAG), and Python backend technologies. I enjoy designing intelligent systems that solve real-world problems through automation and scalable software engineering.
+🟢 **Open to full-time roles:** Generative AI Engineer · AI/ML Engineer
 
 ---
+
+## 🚀 Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**MedAssist AI**](https://github.com/AkashKhulpe5/MEDAssist_AI) | Healthcare copilot using multi-agent reasoning, RAG and vision to answer clinical questions | LangGraph, FastAPI, FAISS |
+| [**WHO RAG Assistant**](https://github.com/AkashKhulpe5/WHO_AI-Assistant-RAG) | Answers questions grounded strictly in WHO documents | FAISS, LLM, Python |
+| [**Telemedicine Backend**](https://github.com/AkashKhulpe5/Amrutam-Telemedicine-backend) | JWT auth, role-based access, booking, prescriptions, audit logs | FastAPI, PostgreSQL |
+| [**Support SLA Intelligence**](https://github.com/AkashKhulpe5/Vireo-support-sla-intelligence) | SLA breach analytics and service-credit estimates | Streamlit, Pandas |
+| [**FIFA Insights AI**](https://github.com/AkashKhulpe5/Fifa-insights-ai) | Chat over World Cup stats (CSV) and PDFs | FastAPI, Groq, Streamlit |
+| [**LLM-as-Judge**](https://github.com/AkashKhulpe5/llm-as-judge1) | Automated LLM answer evaluation against a golden dataset | Python, LLMs |
 
 ## 🛠️ Tech Stack
 
-### Languages
-- Python
-- SQL
-
-### Generative AI
-- LangChain
-- LangGraph
-- OpenAI
-- Hugging Face
-- Prompt Engineering
-- RAG
-- MCP
-- AI Agents
-
-### Machine Learning
-- Scikit-learn
-- TensorFlow
-- Pandas
-- NumPy
-
-### Vector Databases
-- FAISS
-
-### Backend & Deployment
-- FastAPI
-- REST APIs
-- Streamlit
-- Docker
-- Azure
-
-### Tools
-- Git
-- GitHub
-- VS Code
-
----
-
-## 📌 Featured Projects
-
-### 🏥 MediAssist AI
-Enterprise Healthcare AI Copilot built using LangGraph, RAG, MCP, FastAPI, Docker and Azure. Supports multi-agent reasoning, document retrieval and intelligent healthcare assistance.
-
-### 📄 Transformer Research Paper RAG
-RAG-based application for querying Transformer research papers using semantic search and LLMs.
-
-### 💬 Finance Chatbot
-LLM-powered chatbot that answers finance-related queries using retrieval-based generation.
-
-### 📊 Machine Learning Projects
-Built predictive ML models using Python, SQL, Scikit-learn, feature engineering and model evaluation techniques.
-
----
+**GenAI:** LangChain · LangGraph · RAG · FAISS · Hugging Face · Prompt Engineering
+**Backend:** Python · FastAPI · PostgreSQL · REST APIs · Docker
+**ML & Data:** Scikit-learn · TensorFlow · Pandas · NumPy · SQL
+**Tools:** Git · Streamlit · VS Code
 
 ## 🔭 Currently Exploring
-
-- Advanced Agentic AI Systems
-- Multi-Agent Workflows
-- Production-grade RAG Architectures
-- AI Backend Engineering
-- LLM Evaluation & Optimization
+Production-grade RAG · Multi-agent workflows · LLM evaluation
 
 ---
-
-## 🎯 Looking For
-
-I'm actively seeking full-time opportunities in:
-
-- AI Engineer
-- Generative AI Engineer
-- Agentic AI Engineer
-- Python Backend Developer
-- Applied AI / Machine Learning Engineer
-
----
-
-## 📫 Connect with Me
-
-💼 LinkedIn  
-https://www.linkedin.com/in/akash-khulpe-59ab83241/
-
-💻 GitHub  
-https://github.com/AkashKhulpe5
-
-⭐ Always excited to build impactful AI solutions and collaborate on innovative projects.
+⭐ Feel free to explore my repos or reach out. I'm happy to talk about AI projects.
